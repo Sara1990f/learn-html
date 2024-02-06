@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: column;
+align-items: center;
+width: 40%;
+
+}
+.hand{
+    width: 30%;
+}
+.hand img{
+    width: 5rem;
+    height: 5rem;
+    cursor: pointer;
+}
